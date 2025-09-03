@@ -17,3 +17,8 @@ This project is an ML-powered skincare recommendation system that helps users di
 - Add an LLM-powered chatbot for skincare queries
 - Filter remedies based on skin type, season, or severity
 - Fine-tune NLP pipelines for better recommendations
+
+
+## Dataset
+
+It consists of 4 columns : Ingredients , Skin type, Skin concern , Remedy Type , Remedy Descriptions.
